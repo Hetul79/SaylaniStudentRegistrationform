@@ -1,2 +1,3 @@
 # WEB-SaylaniRegistrationForm
-Saylani Registration form designed using HTML and CSS
+Saylani Student Registration form designed using HTML and CSS.
+

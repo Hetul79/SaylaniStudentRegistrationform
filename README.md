@@ -6,3 +6,8 @@ DEMO:-
 https://studentregistration-e4cb2.web.app/
 
 
+![](StudentRegistrationform_Snapshot1.JPG)
+
+![](StudentRegistrationform_Snapshot2.JPG)
+
+

@@ -3,5 +3,6 @@ Saylani Student Registration form designed using HTML and CSS.
 
 DEMO:-
 
-https://periodictable-demo.web.app/
+https://studentregistration-e4cb2.web.app/
+
 
